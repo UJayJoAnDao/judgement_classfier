@@ -1,0 +1,18 @@
+Epoch 5 Accuracy: 0.8142
+Epoch 5 Recall: 0.8142
+Epoch 5 F1 Score: 0.8139
+Epoch 5 Train Loss: 0.0113
+Epoch 5 Validation Loss: 0.0159
+Classification Report:
+                       precision    recall  f1-score   support
+
+           Abuse_test       0.90      0.80      0.85       600
+            Drug_test       0.75      0.88      0.81       528
+     Sex_assault_test       0.76      0.93      0.84       600
+Economic_assault_test       0.97      0.68      0.80       600
+          Others_test       0.76      0.79      0.77       600
+
+             accuracy                           0.81      2928
+            macro avg       0.83      0.82      0.81      2928
+         weighted avg       0.83      0.81      0.81      2928
+
