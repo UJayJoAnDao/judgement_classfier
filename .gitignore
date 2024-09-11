@@ -5,3 +5,4 @@ test/
 Model/
 *.png
 *.zip
+models/FineTuning_epoch_5/epoch_5/pytorch_model.bin
