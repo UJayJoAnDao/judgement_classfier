@@ -2,5 +2,6 @@ Datasets/
 ProcessedDatasets/
 test/
 .vscode/
+Model/
 *.png
 *.zip
