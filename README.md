@@ -27,3 +27,9 @@
 
 ## 資料集與模型下載
 - 資料集與模型:[點我](https://drive.google.com/drive/folders/1-1IKG4gM4O_JvNAnw-y0W9_kwmLgGKGM?usp=sharing)
+
+---
+### 參與人員與參與事項:
+- @ujayjoandao : CNN、NN 與 GA 模型訓練。
+
+- @vapourcat : 資料蒐集與標註、BERT模型訓練。
